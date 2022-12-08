@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserRegistrationExceptionHandling", "UserRegistrationExceptionHandling.csproj", "{2BED488B-C00B-45B7-BC65-90E25C34083C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOnExceptionHandling", "..\TestOnExceptionHandling\TestOnExceptionHandling.csproj", "{FBDD2A34-DB02-471E-A158-EE34A790CBA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BED488B-C00B-45B7-BC65-90E25C34083C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BED488B-C00B-45B7-BC65-90E25C34083C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BED488B-C00B-45B7-BC65-90E25C34083C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BED488B-C00B-45B7-BC65-90E25C34083C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBDD2A34-DB02-471E-A158-EE34A790CBA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDD2A34-DB02-471E-A158-EE34A790CBA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDD2A34-DB02-471E-A158-EE34A790CBA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDD2A34-DB02-471E-A158-EE34A790CBA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B136DEC-802B-4C33-92C5-B50F99D58101}
+	EndGlobalSection
+EndGlobal
