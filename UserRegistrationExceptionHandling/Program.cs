@@ -4,9 +4,7 @@
     {
         static void Main(string[] args)
         {
-            string userInput = "ab";
-            string output = UserDetails.FirstName(userInput);
-            Console.WriteLine(output);
+            //MSTest is the requirement so passing input from Testing Class .
         }
     }
 }
